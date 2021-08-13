@@ -64,7 +64,7 @@ section{
     border-radius: 1rem;
 }
 .main-card-info--plan span{
-    background-image: url("/images/icon-music.svg");
+    background-image: url("../images/icon-music.svg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
